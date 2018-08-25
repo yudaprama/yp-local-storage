@@ -1,0 +1,8 @@
+{
+  "name": "yp-local-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yudaprama/yp-local-storage.git",
+  "author": "Yuda Prama <yudapamad@gmail.com>",
+  "license": "MIT"
+}
